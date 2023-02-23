@@ -2341,13 +2341,13 @@
     svelte "^3.49.0"
     svelte-i18n "^3.3.13"
 
-"@web3-onboard/injected-wallets@^2.0.15":
-  version "2.0.15"
-  resolved "https://registry.yarnpkg.com/@web3-onboard/injected-wallets/-/injected-wallets-2.0.15.tgz#ad1cfe3d0ffc20c2383e813a1f25d4f4c1f88562"
-  integrity sha512-hx32yrYWtNbLxKJvIYmKRp0dJUre+Yuc9l3JIUXO4IV1XMXiCAKxKEiJOyloaPREummCNU8+q0pXtmpdYfVrrQ==
+"@web3-onboard/injected-wallets@^2.6.2":
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/@web3-onboard/injected-wallets/-/injected-wallets-2.8.0.tgz#6cec9ae8c834aaa2e82ffdf968d3b42d736adcfd"
+  integrity sha512-Rq3uyRfeTLwxXqKmDV/nHBaEbFRGrEMqmpkEHM8PDxmN9/94ahUrhNMeVfJNcpJnG5cin9/GR4ZYPAqlSrlyCA==
   dependencies:
-    "@web3-onboard/common" "^2.1.7"
-    joi "^17.4.2"
+    "@web3-onboard/common" "^2.2.3"
+    joi "^17.6.1"
     lodash.uniqby "^4.7.0"
 
 "@web3-onboard/walletconnect@^2.0.9":
