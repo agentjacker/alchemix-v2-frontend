@@ -66,7 +66,7 @@
     "buffer": "^6.0.3",
     "chart.js": "^3.5.0",
     "classnames": "^2.3.1",
-    "core-js": "^3.15.2",
+    "core-js": "^3.27.2",
     "cross-env": "^7.0.3",
     "crypto-browserify": "^3.12.0",
     "dotenv": "^8.2.0",
