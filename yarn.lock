@@ -2301,17 +2301,6 @@
     joi "^17.4.2"
     rxjs "^7.5.2"
 
-"@web3-onboard/common@^2.1.8":
-  version "2.1.8"
-  resolved "https://registry.yarnpkg.com/@web3-onboard/common/-/common-2.1.8.tgz#e20e027eaa597846b4ff178423de13d5ca597a5b"
-  integrity sha512-3kmJi0FKUw0rPXrbVe/BL+K13JSEzZ2QndnzpmHtKt4xFyRN+JgboAaAvJqfuk9t4hAZe45PqEWraSnYUCgDaA==
-  dependencies:
-    "@ethereumjs/common" "2.6.2"
-    bignumber.js "^9.0.0"
-    ethers "5.5.4"
-    joi "^17.4.2"
-    rxjs "^7.5.2"
-
 "@web3-onboard/common@^2.2.3":
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/@web3-onboard/common/-/common-2.2.3.tgz#fc0841186d84cf017f4cf0368dcd349e6ed8dc8b"
@@ -2350,15 +2339,15 @@
     joi "^17.4.2"
     lodash.uniqby "^4.7.0"
 
-"@web3-onboard/walletconnect@^2.0.9":
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/@web3-onboard/walletconnect/-/walletconnect-2.0.9.tgz#ad3427832ea2268da5154c8b77e05d964c65d282"
-  integrity sha512-ORir31Dmcq9guUp7LJN/iw5BB1E5xgjALX7aR0CG0H5iRPOkjmVjaha1CkK5wfD3Qj75egMnYjYmMo+W4imIIg==
+"@web3-onboard/walletconnect@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@web3-onboard/walletconnect/-/walletconnect-2.2.2.tgz#202b700ee606d0a9055d4a716dba7b04e18da0f0"
+  integrity sha512-JIxjlUy3C0bbY76JQ50uwBLMtWRKXaxMDoeEcJQAnYcHMb+ba6B40qSv2BlJpAAEI7NGW52GHSdwUT0QOrM7Ng==
   dependencies:
     "@ethersproject/providers" "^5.5.0"
     "@walletconnect/client" "^1.7.1"
     "@walletconnect/qrcode-modal" "^1.7.1"
-    "@web3-onboard/common" "^2.1.8"
+    "@web3-onboard/common" "^2.2.3"
     rxjs "^7.5.2"
 
 "@web3-onboard/walletlink@^2.0.6":
